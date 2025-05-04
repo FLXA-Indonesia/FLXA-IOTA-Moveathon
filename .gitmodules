@@ -1,0 +1,24 @@
+[submodule "FLXA-Token"]
+	path = FLXA-Token
+	url = git@github.com:FLXA-Indonesia/FLXA-Token.git
+[submodule "FLXA-Provider-Web-IOTA"]
+	path = FLXA-Provider-Web-IOTA
+	url = git@github.com:FLXA-Indonesia/FLXA-Provider-Web-IOTA.git
+[submodule "FLXA-Auth-Service-IOTA"]
+	path = FLXA-Auth-Service-IOTA
+	url = git@github.com:FLXA-Indonesia/FLXA-Auth-Service-IOTA.git
+[submodule "FLXA-Balance-Service-IOTA"]
+	path = FLXA-Balance-Service-IOTA
+	url = git@github.com:FLXA-Indonesia/FLXA-Balance-Service-IOTA.git
+[submodule "FLXA-Card-Service-Lite-IOTA"]
+	path = FLXA-Card-Service-Lite-IOTA
+	url = git@github.com:FLXA-Indonesia/FLXA-Card-Service-Lite-IOTA.git
+[submodule "FLXA-User-Service-IOTA"]
+	path = FLXA-User-Service-IOTA
+	url = git@github.com:FLXA-Indonesia/FLXA-User-Service-IOTA.git
+[submodule "FLXA-Token-Service-IOTA"]
+	path = FLXA-Token-Service-IOTA
+	url = git@github.com:FLXA-Indonesia/FLXA-Token-Service-IOTA.git
+[submodule "FLXA-App-IOTA"]
+	path = FLXA-App-IOTA
+	url = git@github.com:FLXA-Indonesia/FLXA-App-IOTA.git
